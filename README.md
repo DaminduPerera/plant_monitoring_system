@@ -73,23 +73,6 @@ Configure InfluxDB to accept data from the backend and provide visualization too
 - Send the test data from the Raspberry pi pico w.
 - Open the web interface in a browser to view thedata.
 
-# Team Members
-
-## Firoz Thapa
-- Oversees project progress, manages timelines, and ensures all deliverables are met.
-
-## Firoz Thapa & Damindu Koswattage
-- Develop and implement the sensors and actuator control code.
-
-## Ruisi Li
-- Designs and builds the hardware components, including sensor integration and relay control.
-
-## Yumeng Tai & Damindu Koswattage
-- Handle EEPROM data storage and communication modules.
-
-## Kavindi Gamaralalage
-- Conducts all testing, ensures quality, and manages project documentation.
-
 
 ### 6. 📊 Dashboard Preview
 
@@ -97,5 +80,18 @@ The dashboard displays:
 - Soil moisture levels
 - Alerts for critical conditions
 
+# Team Members
+
+## Firoz Thapa
+- Oversees project progress, manages timelines, and ensures all deliverables are met.
+
+## Firoz Thapa & Damindu Koswattage
+- Building frontend, backend, and cloud.
+
+## Ruisi Li & Yumeng Tai
+- Design and build the hardware components and code, including sensor integration.
+
+## Kavindi Gamaralalage
+- Conducts all testing, ensures quality, and manages project documentation.
 
  
